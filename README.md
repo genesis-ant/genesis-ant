@@ -1,16 +1,36 @@
 ## Hi there 👋
 
-<!--
-**genesis-ant/genesis-ant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👑 Genesis ANT
 
-Here are some ideas to get you started:
+**Genesis ANT** is a multi-phase NFT project that starts on BSC and evolves onto BugsChain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is not just a collection — it's a journey.
+
+---
+
+# 🚀 Roadmap
+
+- 🐜 **ANT**  
+  100% airdropped. No minting.  
+  Distributed manually to early supporters.
+
+- 🥚 **Genesis Egg**  
+  Airdropped to ANT holders when BugsChain launches.
+
+- 👑 **Genesis ANT**  
+  Final stage NFT. Utility, perks, and real-world rewards.
+
+---
+
+# 🧱 Tech Stack
+
+- IPFS + nft.storage  
+- ERC-721A (planned)  
+
+---
+
+## 🔒 Philosophy
+
+> I don't offer minting. I offer trust.  
+> All NFTs are sent directly by me. No wallet risk.
+
