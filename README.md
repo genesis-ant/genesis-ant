@@ -1,36 +1,33 @@
-## Hi there 👋
+Hi there 👋
 
-# 👑 Genesis ANT
-
-**Genesis ANT** is a multi-phase NFT project that starts on BSC and evolves onto BugsChain.
+👑 Genesis ANT
+Genesis ANT is a multi-phase NFT project that starts on BSC and evolves onto BugsChain.
 
 This is not just a collection — it's a journey.
 
----
+🚀 Roadmap
 
-# 🚀 Roadmap
+🐜 ANT
+100% airdropped. No minting.
+Distributed manually to early supporters.
 
-- 🐜 **ANT**  
-  100% airdropped. No minting.  
-  Distributed manually to early supporters.
+🥚 Genesis Egg
+Airdropped to ANT holders when BugsChain launches.
 
-- 🥚 **Genesis Egg**  
-  Airdropped to ANT holders when BugsChain launches.
+👑 Genesis ANT
+Final stage NFT. Utility, perks, and real-world rewards.
 
-- 👑 **Genesis ANT**  
-  Final stage NFT. Utility, perks, and real-world rewards.
+🧱 Tech Stack
 
----
+IPFS via Pinata
 
-# 🧱 Tech Stack
+Remix IDE for contract deployment
 
-- IPFS + nft.storage  
-- ERC-721A (planned)  
+ERC-721A (planned)
 
----
+🔒 Philosophy
+I don’t offer minting. I offer trust.
+All NFTs are sent directly by me — no wallet connection, no risk.
 
-## 🔒 Philosophy
 
-> I don't offer minting. I offer trust.  
-> All NFTs are sent directly by me. No wallet risk.
 
