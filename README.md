@@ -23,6 +23,8 @@ IPFS via Pinata
 
 Remix IDE for contract deployment
 
+hashlips_art_engine
+
 ERC-721A
 
 🔒 Philosophy
