@@ -23,7 +23,7 @@ IPFS via Pinata
 
 Remix IDE for contract deployment
 
-ERC-721A (planned)
+ERC-721A
 
 🔒 Philosophy
 I don’t offer minting. I offer trust.
