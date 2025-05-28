@@ -23,7 +23,7 @@ IPFS via Pinata
 
 Remix IDE for contract deployment
 
-hashlips_art_engine
+HashLips Art Engine for generation
 
 ERC-721A
 
